@@ -4,7 +4,7 @@ hey iam hazem atef laravel and nodejs developer mysql and mongodb Backend develo
 </p>
 
 <!-- Title -->
-<h1 align="center">👋 Welcome to Mohamed Esmat's GitHub Profile! 🚀</h1>
+<h1 align="center">👋 Welcome to Hazem,s Atef GitHub Profile! 🚀</h1>
 
 <!-- SVG Greetings -->
 <p align="center">
@@ -26,24 +26,26 @@ hey iam hazem atef laravel and nodejs developer mysql and mongodb Backend develo
 <!-- About Me -->
 ## 🙋‍♂️ About Me
 
-Hey there! I'm Mohamed Esmat, a Software Engineer and MERN Stack Developer with a passion for creating web applications that bring joy and solve real-world problems. I thrive on continuous learning and enjoy exploring new technologies and best practices in the world of web development.
+Hey there! I'm Hazem Atef, a Backend Developer with a strong focus on Laravel, Node.js, MySQL, and MongoDB. I graduated with a degree in Computer Science and love building scalable backend systems and RESTful APIs. I enjoy solving real-world problems and am always learning new tools and technologies to enhance my development workflow.
 
 ## 🛠️ Tech Stack
 
-- **Frontend Development**: HTML5, CSS3, JavaScript, React.js
-- **UI Frameworks**: Bootstrap, Tailwind CSS, Material-UI
-- **CSS Architecture**: BEM (Block Element Modifier)
-- **Animations**: CSS Transitions, Keyframes
+* **Backend Development**: Laravel, PHP, Node.js, Express.js
+* **Database**: MySQL, MongoDB
+* **Frontend Basics**: HTML5, CSS3, JavaScript
+* **Web APIs**: RESTful API, JWT Auth
+* **Tools & Technologies**: Postman, Git, GitHub, VS Code, Docker, Composer, NPM
 
-- **Backend Development**: Node.js, Express.js
-- **Database**: MongoDB, Mongoose
-- **Web APIs**: RestAPI, GraphQL (Apollo)
+## 🚀 Fun Facts
 
-- **Tools & Technologies**: Webpack, npm scripts, Jest, Git, GitHub, Visual Studio Code, Sass, GraphQL, MongoDB
+* I enjoy building backend services that scale and perform well under pressure. ⚙️
+* I'm a fan of clean code, strong typing, and secure authentication. 🔐
+* I love coffee, music, and diving deep into new technologies. ☕🎧💻
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge">
+## 📫 Connect with Me
+
+[Hazematef5042@gmail.com](mailto:Hazematef5042@gmail.com)
+&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-Sass-05122A?logo=sass&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge">
   <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge">
